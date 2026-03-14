@@ -8,4 +8,4 @@
 * RISC-V / OpenRISC Opcodes
 * RISC-V / OpenRISC Tests
 * RISC-V / OpenRISC ISA Simulator
-* RISC-V / OpenRISC GNUCompiler Collection
+* RISC-V / OpenRISC GNU Compiler Collection
