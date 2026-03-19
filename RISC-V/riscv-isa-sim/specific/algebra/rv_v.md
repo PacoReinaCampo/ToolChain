@@ -1,9 +1,14 @@
 # OPCFG
+
+```
 vsetivli
 vsetvli
 vsetvl
+```
 
 # OPLS
+
+```
 vlm.v
 vsm.v
 vle8.v
@@ -67,8 +72,11 @@ vs1r.v
 vs2r.v
 vs4r.v
 vs8r.v
+```
 
 # OPFVF
+
+```
 vfadd.vf
 vfsub.vf
 vfmin.vf
@@ -111,8 +119,11 @@ vfwmacc.vf
 vfwnmacc.vf
 vfwmsac.vf
 vfwnmsac.vf
+```
 
 # OPFVV
+
+```
 vfadd.vv
 vfredusum.vs
 vfsub.vv
@@ -182,8 +193,11 @@ vfwmacc.vv
 vfwnmacc.vv
 vfwmsac.vv
 vfwnmsac.vv
+```
 
 # OPIVX
+
+```
 vadd.vx
 vsub.vx
 vrsub.vx
@@ -229,8 +243,11 @@ vnsrl.wx
 vnsra.wx
 vnclipu.wx
 vnclip.wx
+```
 
 # OPIVV
+
+```
 vadd.vv
 vsub.vv
 vminu.vv
@@ -275,8 +292,11 @@ vnclip.wv
 
 vwredsumu.vs
 vwredsum.vs
+```
 
 # OPIVI
+
+```
 vadd.vi
 vrsub.vi
 vand.vi
@@ -313,8 +333,11 @@ vnsrl.wi
 vnsra.wi
 vnclipu.wi
 vnclip.wi
+```
 
 # OPMVV
+
+```
 vredsum.vs
 vredand.vs
 vredor.vs
@@ -329,8 +352,11 @@ vasubu.vv
 vasub.vv
 
 vmv.x.s
+```
 
 # OPI
+
+```
 vzext.vf8
 vsext.vf8
 vzext.vf4
@@ -383,8 +409,11 @@ vwmul.vv
 vwmaccu.vv
 vwmacc.vv
 vwmaccsu.vv
+```
 
 # OPMVX
+
+```
 vaaddu.vx
 vaadd.vx
 vasubu.vx
@@ -422,3 +451,4 @@ vwmaccu.vx
 vwmacc.vx
 vwmaccus.vx
 vwmaccsu.vx
+```

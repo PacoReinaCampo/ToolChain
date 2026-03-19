@@ -1,4 +1,6 @@
 # RVF
+
+```
 flw
 fsw
 fmadd.s
@@ -25,14 +27,20 @@ fclass.s
 fcvt.s.w
 fcvt.s.wu
 fmv.w.x
+```
 
 # RV64F
+
+```
 fcvt.l.s
 fcvt.lu.s
 fcvt.s.l
 fcvt.s.lu
+```
 
 # RVD
+
+```
 fld
 fsd
 fmadd.d
@@ -59,16 +67,22 @@ fcvt.w.d
 fcvt.wu.d
 fcvt.d.w
 fcvt.d.wu
+```
 
 # RV64D
+
+```
 fcvt.l.d
 fcvt.lu.d
 fmv.x.d
 fcvt.d.l
 fcvt.d.lu
 fmv.d.x
+```
 
 # RVQ
+
+```
 flq
 fsq
 fmadd.q
@@ -97,10 +111,14 @@ fcvt.w.q
 fcvt.wu.q
 fcvt.q.w
 fcvt.q.wu
+```
 
 # RV64Q
+
+```
 fcvt.l.q
 fcvt.lu.q
 
 fcvt.q.l
 fcvt.q.lu
+```

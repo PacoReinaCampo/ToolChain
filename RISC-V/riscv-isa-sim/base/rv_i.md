@@ -1,4 +1,6 @@
 # RVI
+
+```
 lui
 auipc
 jal
@@ -37,8 +39,11 @@ fence
 
 ecall
 ebreak
+```
 
 # RV64I
+
+```
 lwu
 ld
 sd
@@ -57,3 +62,4 @@ subw
 sllw
 srlw
 sraw
+```

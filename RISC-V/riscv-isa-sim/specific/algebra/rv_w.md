@@ -1,9 +1,14 @@
 # OPCFG
+
+```
 wsetivli
 wsetvli
 wsetvl
+```
 
 # OPLS
+
+```
 wlm.v
 wsm.v
 wle8.v
@@ -67,8 +72,11 @@ ws1r.v
 ws2r.v
 ws4r.v
 ws8r.v
+```
 
 # OPFVF
+
+```
 wfadd.vf
 wfsub.vf
 wfmin.vf
@@ -111,8 +119,11 @@ wfwmacc.vf
 wfwnmacc.vf
 wfwmsac.vf
 wfwnmsac.vf
+```
 
 # OPFVV
+
+```
 wfadd.vv
 wfredusum.vs
 wfsub.vv
@@ -182,8 +193,11 @@ wfwmacc.vv
 wfwnmacc.vv
 wfwmsac.vv
 wfwnmsac.vv
+```
 
 # OPIVX
+
+```
 wadd.vx
 wsub.vx
 wrsub.vx
@@ -229,8 +243,11 @@ wnsrl.wx
 wnsra.wx
 wnclipu.wx
 wnclip.wx
+```
 
 # OPIVV
+
+```
 wadd.vv
 wsub.vv
 wminu.vv
@@ -275,8 +292,11 @@ wnclip.wv
 
 wwredsumu.vs
 wwredsum.vs
+```
 
 # OPIVI
+
+```
 wadd.vi
 wrsub.vi
 wand.vi
@@ -313,8 +333,11 @@ wnsrl.wi
 wnsra.wi
 wnclipu.wi
 wnclip.wi
+```
 
 # OPMVV
+
+```
 wredsum.vs
 wredand.vs
 wredor.vs
@@ -329,8 +352,11 @@ wasubu.vv
 wasub.vv
 
 wmv.x.s
+```
 
 # OPI
+
+```
 wzext.vf8
 wsext.vf8
 wzext.vf4
@@ -383,8 +409,11 @@ wwmul.vv
 wwmaccu.vv
 wwmacc.vv
 wwmaccsu.vv
+```
 
 # OPMVX
+
+```
 waaddu.vx
 waadd.vx
 wasubu.vx
@@ -422,3 +451,4 @@ wwmaccu.vx
 wwmacc.vx
 wwmaccus.vx
 wwmaccsu.vx
+```

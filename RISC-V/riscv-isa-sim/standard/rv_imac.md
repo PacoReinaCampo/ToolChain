@@ -1,4 +1,6 @@
 # RVI
+
+```
 lui
 auipc
 jal
@@ -37,8 +39,11 @@ fence
 
 ecall
 ebreak
+```
 
 # RV64I
+
+```
 lwu
 ld
 sd
@@ -57,8 +62,11 @@ subw
 sllw
 srlw
 sraw
+```
 
 # RVM
+
+```
 mul
 mulh
 mulhsu
@@ -67,8 +75,11 @@ div
 divu
 rem
 remu
+```
 
 # RV64M
+
+```
 mulw
 divw
 divuw
@@ -87,8 +98,11 @@ amomin.w
 amomax.w
 amominu.w
 amomaxu.w
+```
 
 # RV64A
+
+```
 lr.d
 sc.d
 amoswap.d
@@ -100,8 +114,11 @@ amomin.d
 amomax.d
 amominu.d
 amomaxu.d
+```
 
 # RVC
+
+```
 c.addi4spn
 c.lw
 c.sw
@@ -127,11 +144,17 @@ c.ebreak
 c.jalr
 c.add
 c.swsp
+```
 
 # R32C
+
+```
 c.jal
+```
 
 # R64C
+
+```
 c.ld
 c.sd
 
@@ -144,3 +167,4 @@ c.addw
 c.slli
 c.ldsp
 c.sdsp
+```
