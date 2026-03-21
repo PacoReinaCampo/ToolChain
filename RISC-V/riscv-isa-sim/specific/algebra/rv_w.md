@@ -74,7 +74,7 @@ ws4r.v
 ws8r.v
 ```
 
-# OPFVF
+# OPFWF
 
 ```
 wfadd.vf
@@ -121,7 +121,7 @@ wfwmsac.vf
 wfwnmsac.vf
 ```
 
-# OPFVV
+# OPFWW
 
 ```
 wfadd.vv
@@ -195,7 +195,7 @@ wfwmsac.vv
 wfwnmsac.vv
 ```
 
-# OPIVX
+# OPIWX
 
 ```
 wadd.vx
@@ -245,7 +245,7 @@ wnclipu.wx
 wnclip.wx
 ```
 
-# OPIVV
+# OPIWW
 
 ```
 wadd.vv
@@ -294,7 +294,7 @@ wwredsumu.vs
 wwredsum.vs
 ```
 
-# OPIVI
+# OPIWI
 
 ```
 wadd.vi
@@ -335,7 +335,7 @@ wnclipu.wi
 wnclip.wi
 ```
 
-# OPMVV
+# OPMWW
 
 ```
 wredsum.vs
@@ -411,7 +411,7 @@ wwmacc.vv
 wwmaccsu.vv
 ```
 
-# OPMVX
+# OPMWX
 
 ```
 waaddu.vx

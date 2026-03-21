@@ -74,7 +74,7 @@ ys4r.v
 ys8r.v
 ```
 
-# OPFVF
+# OPFYF
 
 ```
 yfadd.vf
@@ -121,7 +121,7 @@ yfwmsac.vf
 yfwnmsac.vf
 ```
 
-# OPFVV
+# OPFYY
 
 ```
 yfadd.vv
@@ -195,7 +195,7 @@ yfwmsac.vv
 yfwnmsac.vv
 ```
 
-# OPIVX
+# OPIYX
 
 ```
 yadd.vx
@@ -245,7 +245,7 @@ ynclipu.wx
 ynclip.wx
 ```
 
-# OPIVV
+# OPIYY
 
 ```
 yadd.vv
@@ -294,7 +294,7 @@ ywredsumu.vs
 ywredsum.vs
 ```
 
-# OPIVI
+# OPIYI
 
 ```
 yadd.vi
@@ -335,7 +335,7 @@ ynclipu.wi
 ynclip.wi
 ```
 
-# OPMVV
+# OPMYY
 
 ```
 yredsum.vs
@@ -411,7 +411,7 @@ ywmacc.vv
 ywmaccsu.vv
 ```
 
-# OPMVX
+# OPMYX
 
 ```
 yaaddu.vx
