@@ -50,10 +50,13 @@
 | ANDI | I_FORMAT | LOGICAL | RV32O     |
 
 # COMPARE Instructions
-| SLT |    R_FORMAT | COMPARE | RV32O |
-| SLTI |   I_FORMAT | COMPARE | RV32O |
-| SLTU |   R_FORMAT | COMPARE | RV32O |
-| SLTIU |  I_FORMAT | COMPARE | RV32O |
+
+| Name  | Format   | Type    | Extension |
+|-------|----------|---------|-----------|
+| SLT   | R_FORMAT | COMPARE | RV32O     |
+| SLTI  | I_FORMAT | COMPARE | RV32O     |
+| SLTU  | R_FORMAT | COMPARE | RV32O     |
+| SLTIU | I_FORMAT | COMPARE | RV32O     |
 
 # BRANCH Instructions
 
@@ -74,9 +77,12 @@
 | JALR | I_FORMAT | JUMP | RV32O     |
 
 # SYNCH Instructions
-| FENCE |  I_FORMAT | SYNCH | RV32O |
-| FENCE_I | I_FORMAT | SYNCH | RV32O |
-| SFENCE_VMA | R_FORMAT | SYNCH | RV32O |
+
+| Name       | Format    | Type  | Extension |
+|------------|-----------|-------|-----------|
+| FENCE      |  I_FORMAT | SYNCH | RV32O     |
+| FENCE_I    | I_FORMAT  | SYNCH | RV32O     |
+| SFENCE_VMA | R_FORMAT  | SYNCH | RV32O     |
 
 # SYSTEM Instructions
 
