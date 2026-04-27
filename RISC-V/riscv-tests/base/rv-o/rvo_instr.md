@@ -31,10 +31,10 @@
 
 | Name  | Format   | Type       | Extension | Format-Extension |
 |-------|----------|------------|-----------|------------------|
-| ADD   | R_FORMAT | ARITHMETIC | RV32O     |                  |
-| ADDI  | I_FORMAT | ARITHMETIC | RV32O     |                  |
-| NOP   | I_FORMAT | ARITHMETIC | RV32O     |                  |
-| SUB   | R_FORMAT | ARITHMETIC | RV32O     |                  |
+| ADD   | R_FORMAT | ARITHMETIC | RV32O     | -                |
+| ADDI  | I_FORMAT | ARITHMETIC | RV32O     | -                |
+| NOP   | I_FORMAT | ARITHMETIC | RV32O     | -                |
+| SUB   | R_FORMAT | ARITHMETIC | RV32O     | -                |
 | LUI   | U_FORMAT | ARITHMETIC | RV32O     | UIMM             |
 | AUIPC | U_FORMAT | ARITHMETIC | RV32O     | UIMM             |
 
@@ -106,6 +106,8 @@
 | CSRRWI | I_FORMAT | CSR  | RV32O     | UIMM             |
 | CSRRSI | I_FORMAT | CSR  | RV32O     | UIMM             |
 | CSRRCI | I_FORMAT | CSR  | RV32O     | UIMM             |
+
+# LOAD/STORE Instructions
 
 | Name | Format   | Type  | Extension |
 |------|----------|-------|-----------|
