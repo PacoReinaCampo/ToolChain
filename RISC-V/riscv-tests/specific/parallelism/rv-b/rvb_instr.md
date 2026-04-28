@@ -45,7 +45,6 @@
 | BDECOMPRESS | R_FORMAT | ARITHMETIC | RV32B     | -                |
 | BFP         | R_FORMAT | ARITHMETIC | RV32B     | -                |
 
-
 # ARITHMETIC Instructions
 
 | Name         | Format   | Type       | Extension |
