@@ -1,4 +1,4 @@
-# RVI
+# RVE
 
 ```
 lui
@@ -41,7 +41,7 @@ ecall
 ebreak
 ```
 
-# RV64I
+# RV64E
 
 ```
 lwu
