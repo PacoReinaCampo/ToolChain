@@ -10,3 +10,4 @@
 * RISC-V / OpenRISC Tests
 * RISC-V / OpenRISC ISA Simulator
 * RISC-V / OpenRISC GNU Compiler Collection
+* RISC-V / OpenRISC Board Support Package

@@ -6122,7 +6122,7 @@ X[rd] = d
 PMUL.H.B00 multiplies the low bytes of each 16-bit lane of `rs1` and `rs2` as
 signed 8-bit values and writes the 16-bit products to `rd`.
 
-# PMUL.H.B01|
+# PMUL.H.B01
 
 **Encoding**
 
@@ -6152,7 +6152,7 @@ PMUL.H.B01 multiplies the low byte of each 16-bit lane of `rs1` by the high byte
 of the corresponding lane of `rs2` (signed×signed), producing packed 16-bit
 products in `rd`.
 
-# PMUL.H.B11|
+# PMUL.H.B11
 
 **Encoding**
 
@@ -6210,7 +6210,7 @@ X[rd] = d
 PMULSU.H.B00 multiplies the low bytes of each 16-bit lane of `rs1` (signed) and
 `rs2` (unsigned), producing packed 16-bit products in `rd`.
 
-# PMULSU.H.B11|
+# PMULSU.H.B11
 
 **Encoding**
 
@@ -6268,7 +6268,7 @@ X[rd] = d
 PMULU.H.B00 multiplies the low bytes of each 16-bit lane of `rs1` and `rs2`
 as unsigned 8-bit values, producing packed 16-bit products in `rd`.
 
-# PMULU.H.B01|
+# PMULU.H.B01
 
 **Encoding**
 
@@ -6298,7 +6298,7 @@ PMULU.H.B01 multiplies the low byte of each 16-bit lane of `rs1` by the high
 byte of the corresponding lane of `rs2` (unsigned×unsigned), producing packed
 16-bit products in `rd`.
 
-# PMULU.H.B11|
+# PMULU.H.B11
 
 **Encoding**
 
@@ -8335,7 +8335,7 @@ The PMULH.H.B0 instruction multiplies each packed 16-bit element of `rs1` by the
 low byte of the corresponding element of `rs2` (signed×signed) and writes the
 upper 16 bits of each 24-bit product into `rd`.
 
-# PMULH.H.B1|
+# PMULH.H.B1
 
 **Encoding**
 
@@ -8403,7 +8403,7 @@ The PMULHSU.H.B0 instruction multiplies each packed 16-bit element of `rs1`
 (signed) by the low byte of the corresponding element of `rs2` (unsigned), and
 writes the upper 16 bits of each 24-bit product into `rd`.
 
-# PMULHSU.H.B1|
+# PMULHSU.H.B1
 
 **Encoding**
 
@@ -8476,7 +8476,7 @@ halfword element of `rd`.
 
 * This instruction reads and writes `rd`.
 
-# PMHACC.H.B1|
+# PMHACC.H.B1
 
 **Encoding**
 
@@ -8553,7 +8553,7 @@ the upper 16 bits of the 24-bit product, and accumulates it into `rd`.
 
 * This instruction reads and writes `rd`.
 
-# PMHACCSU.H.B1|
+# PMHACCSU.H.B1
 
 **Encoding**
 
