@@ -29,6 +29,8 @@
 | **`ORYDX32 (Specific Tensor)`**    | `32`                 | `32`          | `32`                    |
 | **`ORYDX64 (Specific Tensor)`**    | `32`                 | `64`          | `32`                    |
 
+**ToolChain Instruction Set Architecture**
+
 * RISC-V / OpenRISC Opcodes
 * RISC-V / OpenRISC Model
 * RISC-V / OpenRISC Tests
