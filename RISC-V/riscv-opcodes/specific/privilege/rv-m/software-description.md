@@ -1,3 +1,3 @@
-* **RV32H - "RV32H Standard Extension for Hypervisor"**
+* **RV32M - "RV32M Standard Extension for Machine"**
 
-* **RV64H - "RV64H Standard Extension for Hypervisor (in addition to RV32H)"**
+* **RV64M - "RV64M Standard Extension for Machine (in addition to RV32M)"**
