@@ -40,6 +40,8 @@
 
 ## RISC-V Instruction Set Architecture Opcodes
 
+### RISC-V ISA Base
+
 **I-Base**:
 
 - riscv-opcodes/rv32_i
@@ -58,7 +60,7 @@
 - riscv-opcodes/rv_zihintntl
 - riscv-opcodes/rv_zimop
 
----
+### RISC-V ISA Standard
 
 **M-Standard**:
 
@@ -92,9 +94,7 @@
 - riscv-opcodes/rv_zcmp
 - riscv-opcodes/rv_zcmt
 
----
-
-**Specific**:
+### RISC-V ISA Specific
 
 HF-Arithmetic:
 
@@ -221,11 +221,13 @@ H-Privilege:
 
 ## RISC-V Instruction Set Architecture Model
 
+### RISC-V ISA Base
+
 **I-Base**:
 
 - sail-riscv/I
 
----
+### RISC-V ISA Standard
 
 **M-Standard**:
 
@@ -239,9 +241,7 @@ H-Privilege:
 
 - sail-riscv/C
 
----
-
-**Specific**:
+### RISC-V ISA Specific
 
 HF-Arithmetic:
 
