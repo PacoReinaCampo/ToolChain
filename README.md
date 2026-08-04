@@ -265,7 +265,7 @@ X-Cryptography:
 
 V-Cryptography:
 
-- sail-riscv/Ky
+- sail-riscv/Kv
 
 B-Parallelism:
 
