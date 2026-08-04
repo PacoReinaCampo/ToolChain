@@ -58,6 +58,8 @@
 - riscv-opcodes/rv_zihintntl
 - riscv-opcodes/rv_zimop
 
+---
+
 **M-Standard**:
 
 - riscv-opcodes/rv64_m
@@ -89,6 +91,8 @@
 - riscv-opcodes/rv_zcmop
 - riscv-opcodes/rv_zcmp
 - riscv-opcodes/rv_zcmt
+
+---
 
 **Specific**:
 
@@ -216,6 +220,66 @@ H-Privilege:
 - riscv-opcodes/rv_h
 
 ## RISC-V Instruction Set Architecture Model
+
+**I-Base**:
+
+- sail-riscv/I
+
+---
+
+**M-Standard**:
+
+- sail-riscv/M
+
+**A-Standard**:
+
+- sail-riscv/A
+
+**C-Standard**:
+
+- sail-riscv/C
+
+---
+
+**Specific**:
+
+HF-Arithmetic:
+
+F-Arithmetic:
+
+- sail-riscv/F
+
+D-Arithmetic:
+
+- sail-riscv/D
+
+Q-Arithmetic:
+
+V-Algebra:
+
+- sail-riscv/V
+
+X-Cryptography:
+
+- sail-riscv/Kx
+
+V-Cryptography:
+
+- sail-riscv/Ky
+
+B-Parallelism:
+
+- sail-riscv/B
+
+P-Parallelism:
+
+S-Privilege:
+
+- sail-riscv/S
+
+H-Privilege:
+
+- sail-riscv/H
 
 ## RISC-V Instruction Set Architecture Tests
 
